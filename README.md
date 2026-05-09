@@ -5,7 +5,7 @@ _Eight algorithms. One dataset about Taylor Swift. Zero regrets._
 
 ## What's This?
 
-My Semester 3 ML lab work — 8 Python programs that took me from _"what even is a feature matrix"_ to clustering Taylor Swift songs by vibe.
+My Semester 4 ML lab work — 8 Python programs that took me from _"what even is a feature matrix"_ to clustering Taylor Swift songs by vibe.
 
 Each assignment is a case study. Each case study is a story. Some have Marvel heroes. One predicts eye color.
 
