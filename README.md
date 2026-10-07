@@ -1,5 +1,5 @@
 # 🤖 ML Diaries
-_Eight algorithms. One dataset about Taylor Swift. Zero regrets._
+_Eight algorithms. One dataset about Taylor Swift. Zero regrets_
 
 ---
 
